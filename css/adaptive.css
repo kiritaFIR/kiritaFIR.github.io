@@ -1,0 +1,33 @@
+@media screen and (max-width:1500px) {
+    .catalog_item{
+        width: calc(100% / 5);
+    }
+    .section-top{
+        height: 50vh;
+    }
+    .section_title{
+        font-size: 30px;
+    }
+    .section-about_text{
+        font-size: 18px;
+    }
+    .section-about_content{
+        width: 50%;
+    }
+    .product_img{
+        width: 200px;
+        height: 150px;
+    }
+    .product_btn{
+        width: 150px;
+    }
+    .product_price{
+        font-size: 20px;
+        width: 700;
+    }
+}
+
+
+
+
+    
